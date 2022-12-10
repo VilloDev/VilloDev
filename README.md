@@ -39,10 +39,12 @@
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
- <a href="https://twitter.com/_Villo0">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+
 </a>
-</p>
+<a href="https://www.twitter.com/_Villo0">
+  <img src="https://img.shields.io/badge/-_Villo0-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_Villo0"/>
+</a>
+
 
 
 <h2 align="center">
